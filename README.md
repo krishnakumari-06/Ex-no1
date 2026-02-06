@@ -55,9 +55,9 @@ END
 #### Output Table
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|      1200 : 12          |        1204 : 00         |
-|      1201 : 34          |        1205 : 00         |  
-|      1202 : 12          |                          |
+|      1200 : 12          |        1204 : 24         |
+|      1201 : 34          |        1205 : 68         |  
+|      1202 : 12          |        1206 : 00         |
 |      1203 : 34          |                          |  
 
 
@@ -65,7 +65,8 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+ ![WhatsApp Image 2026-02-06 at 8 06 01 PM](https://github.com/user-attachments/assets/7afafc92-65e5-472b-b5fc-db361185480c)
+
 
 ---
 
@@ -119,7 +120,8 @@ end
 
 #### Manual Calculations
 
-(Add your calculation here)
+ ![WhatsApp Image 2026-02-06 at 8 06 33 PM](https://github.com/user-attachments/assets/72667867-8f3b-4401-add4-b2001f068213)
+
 
 ---
 
@@ -173,7 +175,9 @@ end
 |      1203 : 34          |        1207 : 01         | 
 
 
-(Add your calculation here)
+ #### Manual Calculations
+ ![WhatsApp Image 2026-02-06 at 8 07 25 PM](https://github.com/user-attachments/assets/d2864d03-321a-45cf-ae69-3a9207d78766)
+
 
 ---
 
@@ -223,7 +227,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+ ![WhatsApp Image 2026-02-06 at 8 07 25 PM (1)](https://github.com/user-attachments/assets/ce2f426f-5c21-4e66-a1b3-b168d73f19fd)
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
