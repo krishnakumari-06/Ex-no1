@@ -167,6 +167,7 @@ end
 2. Perform division.
 3. Store result.
 
+
    ## FLOWCHART
 <img width="1065" height="802" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
 
@@ -203,9 +204,6 @@ END
  ![WhatsApp Image 2026-02-06 at 8 07 25 PM (1)](https://github.com/user-attachments/assets/ce2f426f-5c21-4e66-a1b3-b168d73f19fd)
 ---
 ## OUTPUT FROM MASM SOFTWARE
-
 <img width="940" height="626" alt="image" src="https://github.com/user-attachments/assets/7c6a464a-462e-4cfa-b72e-da3e3000ed2a" />
-## RESULT
-
+##  RESULT
 Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (Addition, Subtraction, Multiplication, and Division) using both direct and indirect methods were successfully written and executed using MASM.
-
