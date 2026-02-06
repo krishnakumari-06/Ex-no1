@@ -19,7 +19,6 @@
 6. Add value in memory with accumulator.
 7. Store result.
 8. Stop.
-9. 
 ## FLOW CHART
 <img width="707" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
 
@@ -50,6 +49,7 @@ END
 |      1201 : 34          |        1205 : 68         |  
 |      1202 : 12          |        1206 : 00         |
 |      1203 : 34          |                          |  
+
 
 
 #### Manual Calculations
@@ -151,6 +151,7 @@ end
 |      1203 : 34          |        1207 : 01         | 
 
 
+
  #### Manual Calculations
  ![WhatsApp Image 2026-02-06 at 8 07 25 PM](https://github.com/user-attachments/assets/d2864d03-321a-45cf-ae69-3a9207d78766)
 
@@ -199,8 +200,8 @@ END
 |      1202 : 12          |        1206 : 00         |
 |      1203 : 34          |        1207 : 00         | 
 
-#### Manual Calculations
 
+#### Manual Calculations
  ![WhatsApp Image 2026-02-06 at 8 07 25 PM (1)](https://github.com/user-attachments/assets/ce2f426f-5c21-4e66-a1b3-b168d73f19fd)
 ---
 ## OUTPUT FROM MASM SOFTWARE
