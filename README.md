@@ -51,8 +51,8 @@ END
 |      1202 : 12          |        1206 : 00         |
 |      1203 : 34          |                          |  
 
-#### Manual Calculations
 
+#### Manual Calculations
  ![WhatsApp Image 2026-02-06 at 8 06 01 PM](https://github.com/user-attachments/assets/7afafc92-65e5-472b-b5fc-db361185480c)
 ---
 
@@ -99,10 +99,10 @@ end
 |  1200:12                | 1204:00                  |
 |  1201:34                | 1205 : 00                |
 |  1202:12                |                          |
-|  1203:34                |                          |
+|1203:34                  |                          |
+
 
 #### Manual Calculations
-
  ![WhatsApp Image 2026-02-06 at 8 06 33 PM](https://github.com/user-attachments/assets/72667867-8f3b-4401-add4-b2001f068213)
 ---
 
