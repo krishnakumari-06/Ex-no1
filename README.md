@@ -4,19 +4,14 @@
 ## AIM
 
 To write and execute Assembly Language Programs to perform arithmetic operations for the 8086 microprocessor.
-
 ---
-
 ## APPARATUS REQUIRED
 
 * Personal Computer with MASM Software
-
 ---
-
 ## 1. ADDITION
 
 #### Algorithm
-
 1. Initialize memory location in HL register.
 2. Store 1st data.
 3. Increment HL to enter 2nd data.
@@ -25,14 +20,11 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 6. Add value in memory with accumulator.
 7. Store result.
 8. Stop.
-
-
+9. 
 ## FLOW CHART
 <img width="707" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
 
-
 #### Program
-
 ```asm
  CODE SEGMENT
 ASSUME CS:CODE, DS:CODE
@@ -60,14 +52,9 @@ END
 |      1202 : 12          |        1206 : 00         |
 |      1203 : 34          |                          |  
 
-
- 
-
 #### Manual Calculations
 
  ![WhatsApp Image 2026-02-06 at 8 06 01 PM](https://github.com/user-attachments/assets/7afafc92-65e5-472b-b5fc-db361185480c)
-
-
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
@@ -86,7 +73,6 @@ END
 ## FLOWCHART
 
 <img width="578" height="797" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
-
 
 #### Program
 ```asm
@@ -107,8 +93,6 @@ code ends
 end
 
 ```
-
-
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
@@ -121,14 +105,10 @@ end
 #### Manual Calculations
 
  ![WhatsApp Image 2026-02-06 at 8 06 33 PM](https://github.com/user-attachments/assets/72667867-8f3b-4401-add4-b2001f068213)
-
-
 ---
-
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 <img width="940" height="578" alt="image" src="https://github.com/user-attachments/assets/859edfbf-097b-4474-a8c0-8b28b763abc5" />
-
 
 ## 3. MULTIPLICATION
 
@@ -142,9 +122,6 @@ end
 ## FLOWCHART
 
 <img width="569" height="906" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
-
-
-
 #### Program
 
 ```asm
@@ -178,7 +155,6 @@ end
  #### Manual Calculations
  ![WhatsApp Image 2026-02-06 at 8 07 25 PM](https://github.com/user-attachments/assets/d2864d03-321a-45cf-ae69-3a9207d78766)
 
-
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
@@ -194,7 +170,6 @@ end
 
    ## FLOWCHART
 <img width="1065" height="802" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
-
 
 #### Program
 
@@ -215,7 +190,6 @@ CODE ENDS
 END
 
 ```
-
 #### Output Table
 
  | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
@@ -228,13 +202,10 @@ END
 #### Manual Calculations
 
  ![WhatsApp Image 2026-02-06 at 8 07 25 PM (1)](https://github.com/user-attachments/assets/ce2f426f-5c21-4e66-a1b3-b168d73f19fd)
-
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
 <img width="940" height="626" alt="image" src="https://github.com/user-attachments/assets/7c6a464a-462e-4cfa-b72e-da3e3000ed2a" />
-
-
 ## RESULT
 
 Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (Addition, Subtraction, Multiplication, and Division) using both direct and indirect methods were successfully written and executed using MASM.
